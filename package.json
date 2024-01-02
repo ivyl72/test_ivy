@@ -1,0 +1,14 @@
+{
+  "name": "test_ivy",
+  "version": "1.0.0",
+  "description": "this is a demo for learning how to set up my server for my application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivy",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
